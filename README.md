@@ -40,6 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaymemon01&show_icons=true&locale=en" alt="rafaymemon01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaymemon01&" alt="rafaymemon01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaymemon01&show_icons=true&locale=en" alt="rafaymemon01" /></p>
 
 <p> If you want to create ReadeMe like me. <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Click Here</a></p>
