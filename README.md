@@ -1,44 +1,76 @@
-<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Rafay+Memon+;MERN+STACK+DEVELOPER+;Code+Lover" alt="Typing SVG" /></div>
+# Hi, I'm Rafay Memon 👋
 
-<h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+I am a **passionate website developer from Pakistan** who loves crafting modern and responsive websites. I am always eager to learn and explore new technologies to enhance my skills and contribute to the tech community. Welcome to my GitHub profile!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaymemon01&label=Profile%20views&color=0e75b6&style=flat" alt="rafaymemon01" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/rafaymemon01" target="blank"><img src="https://img.shields.io/twitter/follow/rafaymemon01?logo=twitter&style=for-the-badge" alt="rafaymemon01" /></a> </p>
+### 🔗 **Connect with me**:
 
-- 🌱 I’m currently learning **Web and app Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafay-memon-930190253/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/rafaymemon11)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)](https://www.instagram.com/_rafay_memon/)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@rafaytech)
 
-- 📫 How to reach me **rafayrashid200611@gmail.com**
+---
 
-- ⚡ Fun fact **JavaScript Full-Stack Powerhouse: MERN.**
+### 🔧 **Tech Stack**:
 
-🚀 **MERN Stack Developer:**
-- 💻 I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack, creating powerful and dynamic web applications.
+Here are the technologies I work with:
 
-📊 **GitHub Stats:**
-- 🌟 **Total Repositories:** [![Repos Badge](https://badges.pufler.dev/repos/rafaymemon01)](https://github.com/rafaymemon01?tab=repositories)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rafaymemon01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafaymemon01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafay-memon-930190253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafay-rashid-930190253" height="30" width="40" /></a>
-<a href="https://fb.com/rafaymemon11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafaymemon11" height="30" width="40" /></a>
-<a href="https://instagram.com/_rafay_memon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rafay_memon/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rafaytech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rafaytech" height="30" width="40" /></a>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <!-- Add any additional MERN Stack related tools or technologies here -->
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaymemon01&show_icons=true&locale=en&layout=compact" alt="rafaymemon01" /></p>
+### 🌐 **Currently Learning**:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaymemon01&show_icons=true&locale=en" alt="rafaymemon01" /></p>
+I am expanding my skill set with:
 
-<p><img align="center" src="https://github-readme-streak-stats.vercel.com/?user=rafaymemon01&" alt="rafaymemon01" /></p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+
+### 📊 **GitHub Stats**:
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rafaymemon01&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaymemon01&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaymemon01&layout=compact&theme=radical&hide_border=true)
+
+
+---
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=rafaymemon01&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
+---
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rafaymemon01&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+
+### 📢 **Random Developer Quote**:
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
+
+### 📈 **Profile Views**:
+
+![Profile Views](https://komarev.com/ghpvc/?username=rafaymemon01&color=blue&style=flat-square)
